@@ -1,6 +1,6 @@
 import "./App.css";
-import Avatar from "./components/Avatar";
-import Profile from "./components/Profile";
+import Avatar from "../components/Avatar";
+import Profile from "../components/Profile";
 
 function AppProfile() {
   const handleClick = (e) => {
